@@ -1,0 +1,6 @@
+onnx==1.16.1
+onnxruntime
+ultralytics
+numpy
+opencv-python
+pathlib
